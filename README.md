@@ -13,3 +13,11 @@ By assigning work, the multiplication operation of matrices must be performed, (
 should match..
 
 4. How do we assign work to matrices A and C? (Selecting the FILE read time point)
+
+# system environment #
+- OS : Oracle VM VirtualBox – Ubuntu 14.04
+- Memory : 5.7 GB
+- CPU : 4
+- hyper-threading : X
+- siblings : 4
+- cpu cores : 4
